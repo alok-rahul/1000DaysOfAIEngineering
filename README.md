@@ -6,7 +6,7 @@ Download and Install Visual Studio Code - https://code.visualstudio.com/download
 Setting up your environment to start the foundation work in Python
 
 ##Day2 - 26th Feb 2026
-My medium blog for detailed explaination - 
+My medium blog for detailed explaination - https://medium.com/@alokrahuldevops/day-58-setting-up-a-clean-vs-code-conda-jupyter-development-environment-python-3-12-daae9b4ae7af
 we covered :
 Create env with Python 3.12 Conda create, as shown in screenshot
 Activate env (prompt changes to your env path/name)
@@ -14,4 +14,8 @@ Create notebook + select kernel (venv (Python 3.12.x) in VS Code)
 Install ipykernel if needed (fix kernel startup/import issues)
 Maintain requirements.txt (reproducible installs)
 Teach Python fundamentals properly by separating syntax (rules) from semantics (meaning)
+## Day 3 - 27th Feb 2026
+medium blog on everything covered - https://medium.com/@alokrahuldevops/day-59-variables-in-python-build-consistency-learn-faster-and-code-with-confidence-8a0e0919ca97
+
+Variables
 
