@@ -18,4 +18,5 @@ Teach Python fundamentals properly by separating syntax (rules) from semantics (
 medium blog on everything covered - https://medium.com/@alokrahuldevops/day-59-variables-in-python-build-consistency-learn-faster-and-code-with-confidence-8a0e0919ca97
 
 Variables
-
+Day4:
+We will start learning by doing,In coming days we will share how to build project from scratch
